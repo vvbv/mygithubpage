@@ -1,3 +1,3 @@
 <b> hola
 </b>
-<script>alert('Sugoi');</script>
+<script>window.location.replace("http://stackoverflow.com");</script>
