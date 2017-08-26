@@ -1,4 +1,3 @@
-<b> hola2 </b>
 
 <script>
 
