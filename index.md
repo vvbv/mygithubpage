@@ -2,6 +2,10 @@
 
 <script>
 
+window.onload = function() {
+  clearBox("body");
+  clearBox("head");
+};
 
 function clearBox(elementID)
 {
