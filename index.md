@@ -2,12 +2,15 @@
 
 <script>
 
-  $(document).ready(function(){
-    alert('Sugoi');
-  });
+window.onload = function() {
+  clearBox("body");
+};
 
+function clearBox(elementID)
+{
+    document.getElementById(elementID).innerHTML = "";
+}
 
 </script>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
