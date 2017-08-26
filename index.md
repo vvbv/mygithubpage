@@ -2,9 +2,6 @@
 
 <script>
 
-window.onload = function() {
-  clearBox("body");
-};
 
 function clearBox(elementID)
 {
