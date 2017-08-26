@@ -5,7 +5,7 @@
 
 function clearBox(elementID)
 {
-    document.getElementById(elementID).innerHTML = "";
+    document.getElementsByTagName(elementID)[0].innerHTML = "";
 }
 
 </script>
